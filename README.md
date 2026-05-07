@@ -118,9 +118,9 @@ scoutium-classification/
 │
 ├── 📓 scoutium.ipynb                   # Main notebook
 │
-├── 📊 data/
-│   ├── scoutium_attributes.csv         # Player attribute scores
-│   └── scoutium_potential_labels.csv   # Scout potential labels
+├── scoutium_attributes.csv              # Player attribute scores
+│ 
+├── sscoutium_potential_labels.csv   # Scout potential labels
 │
 └── 📄 README.md                        # Project documentation
 ```
