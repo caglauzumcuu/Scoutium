@@ -104,22 +104,26 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost lightgbm catboo
 
 ```bash
 # Clone the repo
-git clone https://github.com/username/scoutium-classification.git
+git clone https://github.com/caglauzumcuu/scoutium-classification.git
 
 # Open notebook
 jupyter notebook scoutium.ipynb
 ```
 
 ---
-
 ## 📂 File Structure
 
+```
 scoutium-classification/
 │
-├── scoutium.ipynb                  # Main notebook
-├── scoutium_attributes.csv         # Dataset 1
-├── scoutium_potential_labels.csv   # Dataset 2
-└── README.md                       # This file
+├── 📓 scoutium.ipynb                   # Main notebook
+│
+├── 📊 data/
+│   ├── scoutium_attributes.csv         # Player attribute scores
+│   └── scoutium_potential_labels.csv   # Scout potential labels
+│
+└── 📄 README.md                        # Project documentation
+```
 
 ---
 
